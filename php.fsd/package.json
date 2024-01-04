@@ -1,0 +1,22 @@
+{
+  "name": "my-php-fsd",
+  "version": "1.0.0",
+  "description": "A simple PHP login page with user authentication, session management, and password hashing for secure access control.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osilinprathabs/my-php-fsd.git"
+  },
+  "keywords": [
+    "php.intern"
+  ],
+  "author": "osilinprathab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osilinprathabs/my-php-fsd/issues"
+  },
+  "homepage": "https://github.com/osilinprathabs/my-php-fsd#readme"
+}
